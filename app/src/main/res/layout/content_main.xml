@@ -24,4 +24,11 @@
         android:layout_centerHorizontal="true"
         />
 
+    <TextView
+        android:id="@+id/tv03"
+        android:text="Hello World 03 " android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv02"
+        android:layout_centerHorizontal="true"
+        />
 </RelativeLayout>
